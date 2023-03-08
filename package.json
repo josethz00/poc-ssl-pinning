@@ -1,0 +1,7 @@
+{
+  "name": "poc-ssl-pinning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "josethz00 <jose.soares18@fatec.sp.gov.br>",
+  "license": "MIT"
+}
