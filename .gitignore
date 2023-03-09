@@ -1,0 +1,5 @@
+# Ignore certificate files, keys and certificate bundles
+
+*.crt
+*.pem
+*.key
