@@ -3,3 +3,5 @@
 *.crt
 *.pem
 *.key
+
+node_modules
